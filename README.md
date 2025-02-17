@@ -7,3 +7,5 @@
 ## Esempio di layout responsive senza media query manuali.
 ![Layout s](mobile.png)
 
+<img src="mobile.png" alt="layout s" width="300">
+
