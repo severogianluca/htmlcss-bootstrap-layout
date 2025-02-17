@@ -2,6 +2,6 @@
 
 ## Esempio di layout responsive senza media query manuali.
 
-## Tecnologie
+## Tecnologie:
 -Bootstrap 5
 -HTML5/CSS3
