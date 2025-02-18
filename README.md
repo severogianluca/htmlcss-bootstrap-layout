@@ -17,7 +17,8 @@
 <img src="/img/tablet.png" alt="layout M" width="300">
 <img src="/img/desktop.png" alt="layout L" width="300">
 
-
+## Sponsor
+<img src="/img/boolean-logo.png" alt="layout S" width="100">
 
 
 
